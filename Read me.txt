@@ -1,0 +1,13 @@
+The objective of this project is to design an architecture of a washing machine which design can be used in a hardware of a washing machine.
+ A washing machine (laundry machine, clothes washer, or washer) is a machine used to wash laundry, such as clothing and sheets. 
+The term is mostly applied to machines that use water as opposed to dry cleaning (which uses alternative cleaning fluids, and is performed by specialist businesses) or ultrasonic cleaners.
+The earliest laundry machines simply applied a laundry action once loaded with garments and soap, stuffed with hot water, and commenced. Washing machine supports two functional modes:
+1)Automatic Mode: In fully automatic mode, once the system is started it perform independently without user interference and after the completion of work it should notify the user about the completion of work. This mode instantaneously sense cloth quality and requirement of water, water temperature, detergent, and load, wash cycle time and perform operation accordingly.
+ii)Manual Mode: In this mode, user has to specify which operation he wants to do and has to provide related information to the control system. For example, if user wants to wash clothes only, he has to choose ‘wash’ option manually. Then the system ask the user to enter the wash time, amount of water and the load. After these data are entered the user should start machine. When the specified operation is completed system should inform the user. 
+Sequence of washing the clothes with this can be explained in few steps as follows:
+•Put on your dirty clothes on to the wash tub for washing         
+•Put the detergent Soap (of your choice like Surf n Excel etc.) 
+•Put ON the tap, water rushes inside the tub.
+•If its electronic control , then by the press of the keys ,you could program ,   if its  mechanical it shall something like an mechanical switches wherein you are  allowed to operate for setting the wash time.
+•Now the wash motor rotates and washes the clothes and gives you a beep sound
+•Now your clothes are washed …remove it from the wash tub and put it on the  spin  tub and program it accordingly…after spinning clothes are dried and you  are allowed to hang it for proper drying in sunlight.
