@@ -1,0 +1,13 @@
+Suggest and design a minimal CPU architecture for controlling the washing machi
+
+Project Done By:
+Nazat Al Humaidy
+
+Fuad Uddin
+
+Sharaf anjum
+
+Super Vised By:
+
+Dr. Md. Nawab Yousuf Ali
+Associate Professor,Department of Computer Science & Engineering
